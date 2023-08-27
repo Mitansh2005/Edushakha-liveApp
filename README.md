@@ -70,14 +70,16 @@ The Edusakha Events Feature empowers universities to host virtual events, includ
 
 To get started with the Edusakha Events Feature, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/edusakha-events.git`
+1. Clone the repository: `git clone https://github.com/Mitansh2005/Edushakha-liveApp`
 2. Install dependencies: `npm install`
 3. Configure live video streaming integration and database settings as specified in the documentation.
 
 ## Contributors
 
-- [Your Name](https://github.com/your-username)
-- [Another Contributor](https://github.com/another-username)
+- Mitansh Pithadia(https://github.com/Mitansh2005)
+- Prakrit Srivastav(https://github.com/Prakritsri)
+- Om Kansara(https://github.com/OmKansara)
+- Vivek Badrakiya(https://github.com/vivekbadrakiya)
 
 ## License
 
